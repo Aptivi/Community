@@ -14,7 +14,9 @@
 
 # Aptivi Community
     
-*Start your GitHub discussion with us regarding our projects!*
+*Start your GitHub discussion with us regarding our community!*
+
+For individual project discussions and issues, please head to one of the repositories instead.
 
 </div>
 
